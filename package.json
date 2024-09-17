@@ -1,0 +1,15 @@
+{
+  "name": "eleuthia",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Reintroduction of the human species via cloning and raising of humans from cryogenically preserved stocks of embryos at Cradle facilities.",
+  "devDependencies": {
+    "electron": "^32.1.0"
+  }
+}
